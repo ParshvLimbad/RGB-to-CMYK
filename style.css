@@ -1,0 +1,12 @@
+body {
+    background-color: #FF4316;
+    height: 1080px;
+    width: 1920px;
+    overflow-x: hidden;
+}
+
+.rect-1 {
+margin: 28px 28px 28px 28px;
+width: 1864px;
+height: 1048px;
+}
