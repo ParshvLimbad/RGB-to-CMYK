@@ -3,10 +3,25 @@ body {
     height: 1080px;
     width: 1920px;
     overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .rect-1 {
-margin: 28px 28px 28px 28px;
-width: 1864px;
-height: 1048px;
+    width: 1864px;
+    height: 1048px;
+    background-color: #F4E9E1;
+    border-radius: 26px;
+}
+.rgb-txt{
+    margin-left: 58px;
+    margin-top: 58px;
+}
+.arrow{
+    height: 482px;
+    width: 482px;
+    margin-left: 1324px;
+    margin-top: 58px;
+    display: inline;
 }
